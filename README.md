@@ -26,6 +26,8 @@ The script requires the following Python libraries:
 
 ## **Usage**
 
+![image](https://github.com/user-attachments/assets/6b9cd328-3cb6-46e3-9e69-d51c16351c05)
+
 1.  **Install Dependencies:** Install the required libraries using `pip install <library_name>`.
 2.  **Chromedriver:** Download and place the Chromedriver executable in your system's PATH or specify its path when initializing the `Service` object.
 3.  **Run the Script:** Execute the Python script. The script will:
